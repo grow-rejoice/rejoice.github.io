@@ -1,0 +1,25 @@
+div{
+    height: 1000px;
+/*    background-color: grey;*/
+    object-position: center;
+    padding-top: 100;
+    box-sizing: border-box: 3px 4px;
+    box-shadow: 10px;
+    
+}
+
+.blue {
+    background-color: skyblue;
+}
+
+h1{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+p{
+    text-align: center;
+    text-emphasis-position: left;
+    padding: 0;
+}
